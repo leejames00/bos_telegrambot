@@ -3,7 +3,7 @@ import requests
 import urllib
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup
 
-TOKEN = '505025218:AAFjr1lX8kcuE8wnXMYYqphcadBRjanNuXA'
+TOKEN = ''
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 COINMARKETCAP_URL = "https://api.coinmarketcap.com/v1/"
 COIN = "boscoin/"
